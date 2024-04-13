@@ -1,0 +1,27 @@
+.article{text-align: center;}
+.dv{margin: 3.125rem auto 0 auto;
+width: 100%;
+text-align: center;}
+
+.formdiv{text-align: left;
+margin: 0px 400px 0px 400px;
+background-color: #1b1b32;
+border-radius: 10px;}
+
+.form{align-items: center;
+color: white;
+border-radius: 0.25rem;
+margin-left: 20px;
+padding-top: 10px;}
+
+.long{width: 650px;
+    height: 30px;
+border-radius: 6px;}
+
+.butt{width: 650px;
+    height: 30px;
+border-radius: 6px;
+background-color: #37af65;
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;}
